@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Listening/Audio.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Listening/Recognizer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Listening/UploadUserWords.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Speak/Voice.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Weather/WeatherDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/beiwang/t1/GetCityld.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/beiwang/t1/Mian.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/beiwang/t1/SslUtils.java" charset="GBK" />
+  </component>
+</project>
